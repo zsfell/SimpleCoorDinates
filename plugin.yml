@@ -1,4 +1,4 @@
-name: CoorDinates
+name: SimpleCoordinates
 main: zs\coordinates\Main
 version: 1.0.0
 api:
