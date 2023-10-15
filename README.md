@@ -1,2 +1,2 @@
 # SimpleCoordinates
-Enabel Coordinates on your server
+Enable Coordinates on your server without using command!
