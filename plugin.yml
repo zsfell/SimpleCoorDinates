@@ -1,6 +1,9 @@
 name: SimpleCoordinates
 main: zs\coordinates\Main
 version: 1.0.0
-api: 5.6.0
+api:
+- 4.0.0
+- 5.0.0
+load: POSTWORLD
 author: zsfell
   
